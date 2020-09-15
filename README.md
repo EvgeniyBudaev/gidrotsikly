@@ -1,5 +1,5 @@
 # Магазин по продаже гидроциклов
- Верстка интеренет-магазина с адаптивом
+ Верстка интернет-магазина с адаптивом
 
 ![Image alt](https://github.com/EvgeniyBudaev/gidrotsikly/raw/master/images/screenshots/readme1.jpg)
 ![Image alt](https://github.com/EvgeniyBudaev/gidrotsikly/raw/master/images/screenshots/readme2.jpg)
